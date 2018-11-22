@@ -1,6 +1,6 @@
 # Python-Learning-Note
 
-- 个人博客地址[乡间小路](www.flyrie.top)
+- 个人博客地址[乡间小路](http://www.flyrie.top)
 
 ## 原创文章列表
 | 文章                                                                                                                        | 代码 |
