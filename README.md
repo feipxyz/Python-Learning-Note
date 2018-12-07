@@ -10,7 +10,7 @@
 | [classmethod 与 staticmethod](http://flyrie.top/2018/08/16/Python_Decorators/)                                | 无                                                                                                                                       |
 | 实现单例模式                                                                                                  | [jupyter](https://nbviewer.jupyter.org/github/feipxyz/Python-Learning-Note/blob/master/Python%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.ipynb) |
 | 可迭代对象与迭代器                                                                                            | [jupyter](https://nbviewer.jupyter.org/github/feipxyz/Python-Learning-Note/blob/master/Sentence.ipynb)                                   |
-| 创建二维向量类                                                                                                | [jupyter](https://nbviewer.jupyter.org/github/feipxyz/Python-Learning-Note/blob/master/Vector2d-Class.ipynb)                             |
+| 创建可迭代、可切片、可散列的多维向量类                                                                                                | [jupyter](https://nbviewer.jupyter.org/github/feipxyz/Python-Learning-Note/blob/master/VectorNd.ipynb)                             |
 | 切片探索                                                                                                      | [jupyter](https://nbviewer.jupyter.org/github/feipxyz/Python-Learning-Note/blob/master/slice.ipynb)                                      |
 
 ## 收藏
